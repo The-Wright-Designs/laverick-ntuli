@@ -120,14 +120,6 @@ export default function OurHistory() {
                 packages available in our B2B media space.
               </p>
               <p>
-                Olivia, who joined LMC 15 years ago as receptionists and admin
-                clerk, has a very different role today. Her skill sets now
-                include being a specialist in media monitoring to source online
-                and digital links for clients' online press releases, banners
-                and digital adverts. Olivia also takes care of stats and
-                analytics.
-              </p>
-              <p>
                 Morgan joined us 18 years ago, boosting our marketing arsenal
                 with professional photography and videography services. Morgan
                 is also our Social Media Marketing Specialist.

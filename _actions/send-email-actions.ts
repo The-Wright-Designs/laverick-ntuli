@@ -70,8 +70,8 @@ export async function sendEmail(formData: FormData): Promise<void> {
           department === "general"
             ? "LNC General enquiry"
             : department === "creative"
-            ? "LNC Creative"
-            : "LNC Public Relations"
+              ? "LNC Creative"
+              : "LNC Public Relations"
         }`,
         replyTo: email,
         html: emailHtmlContent,
